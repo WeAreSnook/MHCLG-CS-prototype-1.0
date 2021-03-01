@@ -1,21 +1,31 @@
-# Hello, World!
+#Local Authority Cyber Health Framework
 
-## Edit Me!
+## Section 1: MANAGE Security Risk
 
-Open `source/documentation/index.md` in your favourite text editor and start editing!
+This section covers the organisational structures, policies and processes necessary to understand, assess and systematically manage security risks to Scottish public sector organisations’ network and information systems and essential services. The security control categories under this section cover:
 
-You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
+- Organisational Governance
+- Risk Management
+- Supplier Management
+- Asset Management
 
-This means you can use things like tables:
+## Section 2: PROTECT against cyber-attack
 
-Food | Kind | Tasty?
---- | --- | ---
-Bananas | Fruit | Yes
-Aubergines | Vegetable | No
-Apricots | Fruit | Yes
+This section covers the requirement for proportionate security measures to be in place to protect Scottish public sector organisations (and their essential services and systems) from cyber-attack. The security control categories under this section cover:
 
-To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
+- Information security management
+- Physical/building security
+- Operational security
+- Environmental Security
+- System Management
+- Services Resilience
+- Media Management
+- Access Control
+- People
+- Network Security
 
-If you want slightly more control, you can always use <strong>HTML</strong>.
+## Section 3: DETECT cyber security event
 
-For more detail and troubleshooting, take a look at the `README.md` file in the root of this project.
+This section covers measures to ensure security defences remain effective and to detect cyber security events affecting, or with the potential to affect, Scottish public sector organisations (and their essential services and systems). The security control categories under this section cover:
+
+- Incident detection

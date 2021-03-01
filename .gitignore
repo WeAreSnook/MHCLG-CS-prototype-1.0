@@ -8,7 +8,8 @@
 /.bundle
 
 # Ignore the build directory
-/build
+# /build
+# Need to include build directory so site get's built on Heroku
 
 # Ignore cache
 /.sass-cache
