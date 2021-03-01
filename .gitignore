@@ -19,3 +19,6 @@
 .DS_Store
 
 Staticfile.auth
+
+# Enviroment variables for auth
+.env
