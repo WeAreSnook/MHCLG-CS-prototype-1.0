@@ -56,6 +56,10 @@ bundle exec middleman build`
 
 Every time you run this command, the `build` folder gets generated from scratch. This means any changes to the `build` folder that are not part of the build command will get overwritten.
 
+## Authentication
+
+This prototype has basic authenticatication added. Add a `.env` file with a username and password in the root of the project matching the format shown in the `.env-example` file. Then add both the username and password variables along with their values in your deployment/hosting service of choice (Heroku, Netlify etc.)
+
 ## Troubleshooting
 
 Run `bundle update` to make sure you're using the most recent Ruby gem versions.
